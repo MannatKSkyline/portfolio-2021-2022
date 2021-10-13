@@ -54,3 +54,8 @@ a:visited {
 a:hover, a:active, a:focus { 
      text-decoration: underline;
 }
+h1{
+  letter-spacing: 5px;
+  font-family: fantasy; 
+}
+
